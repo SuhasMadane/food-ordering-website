@@ -28,12 +28,12 @@ function Login() {
       let url = `http://localhost:4000/findUser?email=${user.email}&npassword=${user.npassword}`;
       let res = await fetch(url);
 
-      if (res.status == 500) {
+      if (res.status === 500) {
         let erroMessage = await res.text();
         throw new Error(erroMessage);
       }
       localStorage.setItem("loginStatus", "true");
-      navigate("/home", { replace: true });
+      navigate("/App1", { replace: true });
     } catch (error) {
       alert(error.message);
       setIsError(true);
