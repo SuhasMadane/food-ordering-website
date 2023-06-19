@@ -1,7 +1,8 @@
 import { useRef, useState } from "react";
 import Footer from "./Footer";
-import Nav from "./Nav";
+
 import Navmain from "./Navmain";
+import Nav from "./Nav";
 
 function Contactus() {
   let formRef = useRef();

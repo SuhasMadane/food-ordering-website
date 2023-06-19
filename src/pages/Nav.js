@@ -6,7 +6,7 @@ function Nav() {
         style={{ backgroundColor: "gray" }}
       >
         <div className="container-fluid">
-          <a className="navbar-brand" href="front.html">
+          <a className="navbar-brand" href="App1">
             <img
               src="images/logo.png"
               alt="Logo"

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "title": "Chicken Biryani",
+        "url": "https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-005.jpg",
+        "size": "Non-Veg",
+        "price": 320,
+        "quantity": 0
+    },
+    {
+        "id": "2",
+        "title": "Paneer Roll",
+        "url": "https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-6.jpg",
+        "size": "Veg",
+        "price": 120,
+        "quantity": 0
+    },
+    {
+        "id": "3",
+        "title": "Chicken Korma",
+        "url": "https://recipe52.com/wp-content/uploads/2022/04/white-chicken-korma-2.jpg",
+        "size": "Non-Veg",
+        "price": 200,
+        "quantity": 0
+    },
+    {
+        "id": "4",
+        "title": "Dal Makhni",
+        "url": "https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-Blog.jpg",
+        "size": "Veg",
+        "price": 240,
+        "quantity": 0
+    },
+    {
+        "id": "5",
+        "title": "Kabab",
+        "url": "https://foodiesterminal.com/wp-content/uploads/2019/11/chicken-angara-kabab-2-679x1024.jpg",
+        "size": "Non-Veg",
+        "price": 160,
+        "quantity": 0
+    },
+    {
+        "id": "6",
+        "title": "Shahi Paneer",
+        "url": "https://myfoodstory.com/wp-content/uploads/2022/04/Shahi-Paneer-1.jpg",
+        "size": "Veg",
+        "price": 360,
+        "quantity": 0
+    },
+    {
+        "id": "7",
+        "title": "Chicken Kali Mirch",
+        "url": "https://kitchenmai.com/wp-content/uploads/2019/04/kalimirch_chicken_blog.jpg",
+        "size": "Non-Veg",
+        "price": 420,
+        "quantity": 0
+    },
+    {
+        "id": "8",
+        "title": "Veg Momos",
+        "url": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Classic_Veg_Momo_Recipe_Dumplings_4.jpg",
+        "size": "Veg",
+        "price": 120,
+        "quantity": 0
+    },
+    {
+        "id": "9",
+        "title": "Chilli Potato",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-W0VfEI6cuZk9F6RbWU3LhChRTuv1tE7o2SOI0KmdSqJKtQpZ2myfrhTz3RpPjvye6pY&usqp=CAU",
+        "size": "Veg",
+        "price": 170,
+        "quantity": 0
+    },
+    {
+        "id": "10",
+        "title": "Dum Aloo",
+        "url": "https://nishkitchen.com/wp-content/uploads/2019/09/Dum-Aloo-1B.jpg",
+        "size": "Veg",
+        "price": 240,
+        "quantity": 0
+    },
+    {
+        "id": "11",
+        "title": "Mojito",
+        "url": "https://recipetineats.com/wp-content/uploads/2019/10/Mojito-3.jpg",
+        "size": "Veg",
+        "price": 110,
+        "quantity": 0
+    },
+    {
+        "id": "12",
+        "title": "Spring Roll",
+        "url": "https://sixhungryfeet.com/wp-content/uploads/2023/03/Crispy-Vegan-Spring-Rolls-4.jpg",
+        "size": "Veg",
+        "price": 165,
+        "quantity": 0
+    }
+]

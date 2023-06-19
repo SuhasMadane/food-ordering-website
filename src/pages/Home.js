@@ -4,7 +4,7 @@ import "./front.css";
 
 function Home() {
   return (
-    <div>
+    <div style={{ backgroundColor: "gold" }}>
       <Navmain />
       <div className="container ms-4 ">
         <span id="bigName" className="text-dark" style={{ fontWeight: "500" }}>

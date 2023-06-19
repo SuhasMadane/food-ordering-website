@@ -11,12 +11,12 @@ function Footer() {
           </a>
         </div>
         <div className="col-sm-3 font-weight:500">
-          <a href="aboutus.html" style={{ color: "black" }}>
+          <a href="Aboutus" style={{ color: "black" }}>
             About Us
           </a>
         </div>
         <div className="col-sm-3 font-weight:500">
-          <a href="contactUs.html" style={{ color: "black" }}>
+          <a href="Contactus" style={{ color: "black" }}>
             Contact Us
           </a>
         </div>
